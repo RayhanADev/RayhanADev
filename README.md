@@ -1,6 +1,6 @@
 <div align="center">
 <h3>꧁𓊈𒆜🄷🄴🄻🄻🄾 🄵🄴🄻🄻🄾🅆 🄳🄴🅅🄴🄻🄾🄿🄴🅁🅂𒆜𓊉꧂</h2>
-</div>
+
 
 <br>
 I see you have finally discovered my Github profile. <br>
@@ -12,3 +12,4 @@ Ask me anything <a href="https://github.com/RayhanADev/RayhanADev/issues/new"><b
 <a href="https://dev.to/rayhanadev">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="RayhanADev's DEV Profile" height="30" width="30">
 </a>
+</div>
