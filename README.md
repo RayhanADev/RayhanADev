@@ -7,9 +7,11 @@
 𝘼𝙨𝙠 𝙢𝙚 𝙖𝙣𝙮𝙩𝙝𝙞𝙣𝙜 <a href="https://github.com/RayhanADev/RayhanADev/issues/new"><b>𝙝𝙚𝙧𝙚</b></a> 𝙤𝙧 <a href="mailto:rayhan@furretmail.ml"><b>𝙚𝙢𝙖𝙞𝙡</b></a> 𝙢𝙚<br>
 <br>
 
+![](https://komarev.com/ghpvc/?username=programmeruser2)
 <h1>𝚂𝚝𝚊𝚝𝚜</h1>
 
 ![RayhanADev's github stats](https://github-readme-stats.vercel.app/api?username=RayhanADev&theme=gruvbox&show_icons=true)<br>
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=programmeruser2&theme=merko)
 
 <h1>𝙲𝚘𝚗𝚝𝚊𝚌𝚝</h1>
 
