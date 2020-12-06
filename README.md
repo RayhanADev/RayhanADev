@@ -2,9 +2,9 @@
 <h1>𝙷𝚎𝚕𝚕𝚘 𝙶𝚒𝚝𝙷𝚞𝚋</h1>
 
 <br>
-<p style = "font-size: 32px;">I see you have finally discovered my GitHub profile. </p>
-<p style = "font-size: 32px;">Please feel free to fork projects, raise issues, and submit pull requests if you think something could be better! </p>
-<p style = "font-size: 32px;">Ask me anything <a href="https://github.com/RayhanADev/RayhanADev/issues/new"><b>here</b></a> or <a href="mailto:rayhan.arayilakath@wa-students.org"><b>email</b></a> me</p><br>
+<p style = "font-size: 48px;">I see you have finally discovered my GitHub profile. </p>
+<p style = "font-size: 48px;">Please feel free to fork projects, raise issues, and submit pull requests if you think something could be better! </p>
+<p style = "font-size: 48px;">Ask me anything <a href="https://github.com/RayhanADev/RayhanADev/issues/new"><b>here</b></a> or <a href="mailto:rayhan.arayilakath@wa-students.org"><b>email</b></a> me</p><br>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=RayhanADev)
