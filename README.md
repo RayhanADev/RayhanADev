@@ -35,3 +35,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhanadev&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rayhanadev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanadev&theme=dark" alt="rayhanadev" /></p>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
