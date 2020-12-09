@@ -1,9 +1,9 @@
 <h1 align="center">Hello Github, name’s RayhanADev</h1>
 <h3 align="center">Just a casual frontend developer, looking into backend development!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhanadev&label=Profile%20views&color=d357fe&style=flat-square" alt="rayhanadev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rayhanadev&label=Profile%20views&color=d357fe&style=flat-square" alt="rayhanadev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayhanadev" alt="rayhanadev" /></a> </p>
+
 
 - 🔭 I’m currently working on [Prizm](https://github.com/RayhanADev/Prizm)
 
@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhanadev&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="rayhanadev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhanadev&show_icons=true&theme=tokyonight&title_color=000000&text_color=000000&hide_border=true&locale=en" alt="rayhanadev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhanadev&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rayhanadev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanadev&theme=dark" alt="rayhanadev" /></p>
