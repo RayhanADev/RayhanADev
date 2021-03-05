@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Prizm](https://github.com/RayhanADev/Prizm)
+- 🔭 I’m currently working on [NA](https://github.com/RayhanADev)
 
 - 🌱 I’m currently learning **C (The Programming Language)**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://repl.it/@RayhanADev](https://repl.it/@RayhanADev)
 
-- 💬 Ask me about **CSS and Frontend Development**
+- 💬 Ask me about **GraphQL and Frontend Development**
 
 - 📫 How to reach me **rayhan.arayilakath@wa-students.org**
 
