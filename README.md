@@ -5,17 +5,17 @@
 
 
 
-- 🔭 I’m currently working on [NA](https://github.com/RayhanADev)
+- 🔭 I’m currently working on [DeltaScheme](https://replit.com/@RayhanADev/DeltaScheme)
 
-- 🌱 I’m currently learning **C (The Programming Language)**
+- 🌱 I’m currently learning **Next.js, The React Framework**
 
 - 👯 I’m looking to collaborate on [REPLAPI.it](https://github.com/RayhanADev/REPLAPI.it)
 
-- 🤝 I’m looking for help with **NA**
+- 🤝 I’m looking for help with **Secure User Authenticate**
 
-- 👨‍💻 All of my projects are available at [https://repl.it/@RayhanADev](https://repl.it/@RayhanADev)
+- 👨‍💻 All of my projects are available at [https://replit.com/@RayhanADev](https://replit.com/@RayhanADev)
 
-- 💬 Ask me about **GraphQL and Frontend Development**
+- 💬 Ask me about **GraphQL and Web Development**
 
 - 📫 How to reach me **rayhan.arayilakath@wa-students.org**
 
