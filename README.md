@@ -1,5 +1,5 @@
 <h1 align="center">Hello Github, name’s RayhanADev</h1>
-<h3 align="center">Just a casual frontend developer, looking into backend development!</h3>
+<h3 align="center">Just a part-time fullstack developer, and a full-time hobbyist!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rayhanadev&label=Profile%20views&color=d357fe&style=flat-square" alt="rayhanadev" /> </p>
 
@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Next.js, The React Framework**
 
-- 👯 I’m looking to collaborate on [REPLAPI.it](https://github.com/RayhanADev/REPLAPI.it)
+- 👯 I’m looking to collaborate on [NA](https://github.com/RayhanADev/)
 
-- 🤝 I’m looking for help with **Secure User Authenticate**
+- 🤝 I’m looking for help with **Secure User Authentication**
 
 - 👨‍💻 All of my projects are available at [https://replit.com/@RayhanADev](https://replit.com/@RayhanADev)
 
 - 💬 Ask me about **GraphQL and Web Development**
 
-- 📫 How to reach me **rayhan.arayilakath@wa-students.org**
+- 📫 How to reach me **rayhanadev@pm.me**
 
 - ⚡ Fun fact **I like Furrets!**
 
