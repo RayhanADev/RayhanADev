@@ -1,40 +1,10 @@
-<h1 align="center">Hello Github, name’s RayhanADev</h1>
-<h3 align="center">Just a part-time fullstack developer, and a full-time hobbyist!</h3>
-<em>By the way, <strong>I'm looking for a developer internship</strong>!</em><br>
+<img align="left" src="https://t00.deviantart.net/x3fWiiI5LJHMyYNr4he3aEb2RQM=/300x200/filters:fixed_height(100,100):origin()/pre00/d089/th/pre/f/2017/327/d/b/furret_by_deinexim-dbunibu.png">
+
+[![mail](https://img.shields.io/badge/-@rayhanadev-313131?style=flat-square&labelColor=313131&logo=gmail&logoColor=white&color=313131)](mailto:rayhanadev@pm.me)
+[![replit](https://img.shields.io/badge/-@rayhanadev-313131?style=flat-square&labelColor=313131&logo=replit&logoColor=white&color=313131)](https://replit.com/@RayhanADev)
+[![dev.to](https://img.shields.io/badge/-@rayhanadev__-313131?style=flat-square&labelColor=313131&logo=dev-dot-to&logoColor=white&color=313131)](https://dev.to/rayhanadev)
+[![npm](https://img.shields.io/badge/-@rayhanadev-313131?style=flat-square&labelColor=313131&logo=npm&logoColor=white&color=313131)](https://www.npmjs.com/~rayhanadev)
 
 <p align="center"> <img src="https://myviewcounts.rayhanadev.repl.co/viewcount/Github Views.svg" alt="rayhanadev" /> </p>
 
-
-
-- 🔭 I’m currently working on [DeltaScheme](https://replit.com/@RayhanADev/DeltaScheme)
-
-- 🌱 I’m currently learning **Next.js, The React Framework**
-
-- 👯 I’m looking to collaborate on [NA](https://github.com/RayhanADev/)
-
-- 🤝 I’m looking for help with **Secure User Authentication**
-
-- 👨‍💻 All of my projects are available at [https://replit.com/@RayhanADev](https://replit.com/@RayhanADev)
-
-- 💬 Ask me about **GraphQL and Web Development**
-
-- 📫 How to reach me **rayhanadev@pm.me**
-
-- ⚡ Fun fact **I like Furrets!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/rayhanadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rayhanadev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rayhanadev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rayhanadev" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhanadev&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="rayhanadev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhanadev&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rayhanadev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanadev&theme=dark" alt="rayhanadev" /></p>
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+Hobbyist and **Fullstack Developer**. Likes to design websites and implement code. **Scroll down!!!**
