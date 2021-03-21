@@ -1,6 +1,6 @@
 <h1 align="center">Hello Github, name’s RayhanADev</h1>
 <h3 align="center">Just a part-time fullstack developer, and a full-time hobbyist!</h3>
-<em>By the way, <strong>I'm looking for a developer internship</strong>!</em>
+<em>By the way, <strong>I'm looking for a developer internship</strong>!</em><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rayhanadev&label=Profile%20views&color=d357fe&style=flat-square" alt="rayhanadev" /> </p>
 
