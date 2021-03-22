@@ -9,8 +9,6 @@
 
 <a href="https://myviewcounts.rayhanadev.repl.co"><img src='https://myviewcounts.rayhanadev.repl.co/viewcount/GithubCounter.svg'></a>
 
-(Note: it seems not work on Github :/ Working on a fix!)<br />
-
 ---
 
 Hiya, the name's Ray! I'm a **Hobbyist** and **Fullstack Developer**. I like to design websites and implement code. **Scroll down!!!**
