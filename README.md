@@ -7,7 +7,7 @@
 
 <h3>My Custom Viewcounter:</h3>
 
-<a href="https://myviewcounts.rayhanadev.repl.co"><img src='https://myviewcounts.rayhanadev.repl.co/viewcount/GithubViews.svg'></a>
+<a href="https://myviewcounts.rayhanadev.repl.co"><img src='https://myviewcounts.rayhanadev.repl.co/viewcount/GithubCounter.svg'></a>
 
 (Note: it seems not work on Github :/ Working on a fix!)<br />
 
