@@ -7,4 +7,4 @@
 
 <p align="center"> <img src="https://myviewcounts.rayhanadev.repl.co/viewcount/Github Views.svg" alt="viewcounter" /> </p>
 
-Hobbyist and **Fullstack Developer**. Likes to design websites and implement code. **Scroll down!!!**
+Hiya, the name's Ray! I'm a **Hobbyist** and **Fullstack Developer**. I like to design websites and implement code. **Scroll down!!!**
