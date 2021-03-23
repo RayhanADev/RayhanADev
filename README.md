@@ -34,13 +34,13 @@ Hiya, the name's Ray! I'm a **Hobbyist** and self-taught **Fullstack Developer**
   <tr>
     <th><img src="https://img.shields.io/badge/-HTML-313131?style=flat-square&labelColor=313131&logo=html5&logoColor=white&color=313131"></img></th>
     <th><img src="https://img.shields.io/badge/-Realtime DB-313131?style=flat-square&labelColor=313131&logo=firebase&logoColor=white&color=313131"></img></th>
-    <th><img src="https://img.shields.io/badge/-Photoshop-313131?style=flat-square&labelColor=313131&logo=adobe&logoColor=white&color=313131"></img></th>
+    <th><img src="https://img.shields.io/badge/-Adobe Photoshop-313131?style=flat-square&labelColor=313131&logo=adobe&logoColor=white&color=313131"></img></th>
   </tr>
 
   <tr>
     <th><img src="https://img.shields.io/badge/-CSS-313131?style=flat-square&labelColor=313131&logo=css3&logoColor=white&color=313131"></img></th>
     <th><img src="https://img.shields.io/badge/-MongoDB-313131?style=flat-square&labelColor=313131&logo=mongodb&logoColor=white&color=313131"></img></th>
-    <th><img src="https://img.shields.io/badge/-Premire-313131?style=flat-square&labelColor=313131&logo=adobe&logoColor=white&color=313131"></img></th>
+    <th><img src="https://img.shields.io/badge/-Adobe Premire-313131?style=flat-square&labelColor=313131&logo=adobe&logoColor=white&color=313131"></img></th>
   </tr>
  
   </tr>
