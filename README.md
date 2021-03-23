@@ -11,4 +11,50 @@
 
 ---
 
+<h3>My Technologies:</h3>
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Databases</th>
+    <th>Software</th>
+  </tr>
+  <tr>
+    <th><img src="https://img.shields.io/badge/-NodeJS-313131?style=flat-square&labelColor=313131&logo=node.js&logoColor=white&color=313131"></img></th>
+    <th><img src="https://img.shields.io/badge/-Cloud Firestore-313131?style=flat-square&labelColor=313131&logo=firebase&logoColor=white&color=313131"></img></th>
+    <th><img src="https://img.shields.io/badge/-Visual Studio Code-313131?style=flat-square&labelColor=313131&logo=visual-studio-code&logoColor=white&color=313131"></img></th>
+  </tr>
+
+  <tr>
+    <th><img src="https://img.shields.io/badge/-HTML-313131?style=flat-square&labelColor=313131&logo=html5&logoColor=white&color=313131"></img></th>
+    <th><img src="https://img.shields.io/badge/-Realtime DB-313131?style=flat-square&labelColor=313131&logo=firebase&logoColor=white&color=313131"></img></th>
+    <th><img src="https://img.shields.io/badge/-Photoshop-313131?style=flat-square&labelColor=313131&logo=adobe&logoColor=white&color=313131"></img></th>
+  </tr>
+
+  <tr>
+    <th><img src="https://img.shields.io/badge/-CSS-313131?style=flat-square&labelColor=313131&logo=css3&logoColor=white&color=313131"></img></th>
+    <th><img src="https://img.shields.io/badge/-MongoDB-313131?style=flat-square&labelColor=313131&logo=mongodb&logoColor=white&color=313131"></img></th>
+    <th><img src="https://img.shields.io/badge/-Premire-313131?style=flat-square&labelColor=313131&logo=adobe&logoColor=white&color=313131"></img></th>
+  </tr>
+ 
+  </tr>
+    <th><img src="https://img.shields.io/badge/-Javascript-313131?style=flat-square&labelColor=313131&logo=javascript&logoColor=white&color=313131"></img></th>
+    <th><strong>Frameworks</strong></th>
+    <th><img src="https://img.shields.io/badge/-Blender-313131?style=flat-square&labelColor=313131&logo=blender&logoColor=white&color=313131"></img></th>
+  </tr>
+ 
+  </tr>
+    <th><img src="https://img.shields.io/badge/-Python 3-313131?style=flat-square&labelColor=313131&logo=python&logoColor=white&color=313131"></img></th>
+    <th><img src="https://img.shields.io/badge/-React-313131?style=flat-square&labelColor=313131&logo=react&logoColor=white&color=313131"></img></th>
+    <th><strong>Packages<strong></th>
+  </tr>
+ 
+  </tr>
+    <th><img src="https://img.shields.io/badge/-GraphQL-313131?style=flat-square&labelColor=313131&logo=graphql&logoColor=white&color=313131"></img></th>
+    <th><img src="https://img.shields.io/badge/-NextJS-313131?style=flat-square&labelColor=313131&logo=next.js&logoColor=white&color=313131"></img></th>
+    <th><img src="https://img.shields.io/badge/-Express-313131?style=flat-square&labelColor=313131&logo=express&logoColor=white&color=313131"></img></th>
+  </tr>
+</table>
+
+---
+
 Hiya, the name's Ray! I'm a **Hobbyist** and self-taught **Fullstack Developer**. I like to design websites and implement code. **Scroll down!!!**
