@@ -18,7 +18,7 @@ Hiya, the name's Ray! I'm a **Hobbyist** and self-taught **Fullstack Developer**
 
 ---
 
-<h3>Technologies:</h3>
+<h3>Favorite Technologies:</h3>
 <table>
   <tr>
     <th>Languages</th>
@@ -61,3 +61,11 @@ Hiya, the name's Ray! I'm a **Hobbyist** and self-taught **Fullstack Developer**
     <th><img src="https://img.shields.io/badge/-Express-313131?style=flat-square&labelColor=313131&logo=express&logoColor=white&color=313131"></img></th>
   </tr>
 </table>
+
+---
+
+<h3>Github Stats:</h3>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rayhanadev&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121)
+
+---
