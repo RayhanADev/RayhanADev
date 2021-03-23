@@ -11,4 +11,4 @@
 
 ---
 
-Hiya, the name's Ray! I'm a **Hobbyist** and **Fullstack Developer**. I like to design websites and implement code. **Scroll down!!!**
+Hiya, the name's Ray! I'm a **Hobbyist** and self-taught **Fullstack Developer**. I like to design websites and implement code. **Scroll down!!!**
