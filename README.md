@@ -88,4 +88,6 @@ Hiya, the name's Ray! I'm a **Hobbyist** and self-taught **Fullstack Developer**
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=rayhanadev&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=rayhanadev&theme=darkhub&rank=SECRET,SSS,SS,SS,AAA,AA,A)
+
 ---
