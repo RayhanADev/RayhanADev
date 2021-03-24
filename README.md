@@ -26,39 +26,39 @@ Hiya, the name's Ray! I'm a **Hobbyist** and self-taught **Fullstack Developer**
     <th>Software</th>
   </tr>
   <tr>
-    <th><a href=""><img src="https://img.shields.io/badge/-NodeJS-313131?style=flat-square&labelColor=313131&logo=node.js&logoColor=white&color=313131"></img></a></th>
-    <th><a href=""><img src="https://img.shields.io/badge/-Cloud Firestore-313131?style=flat-square&labelColor=313131&logo=firebase&logoColor=white&color=313131"></img></a></th>
-    <th><a href=""><img src="https://img.shields.io/badge/-Visual Studio Code-313131?style=flat-square&labelColor=313131&logo=visual-studio-code&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-NodeJS-313131?style=flat-square&labelColor=313131&logo=node.js&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://firebase.google.com/products/firestore/"><img src="https://img.shields.io/badge/-Cloud Firestore-313131?style=flat-square&labelColor=313131&logo=firebase&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-Visual Studio Code-313131?style=flat-square&labelColor=313131&logo=visual-studio-code&logoColor=white&color=313131"></img></a></th>
   </tr>
 
   <tr>
-    <th><a href=""><img src="https://img.shields.io/badge/-HTML-313131?style=flat-square&labelColor=313131&logo=html5&logoColor=white&color=313131"></img></a></th>
-    <th><a href=""><img src="https://img.shields.io/badge/-Realtime DB-313131?style=flat-square&labelColor=313131&logo=firebase&logoColor=white&color=313131"></img></a></th>
-    <th><a href=""><img src="https://img.shields.io/badge/-Adobe Photoshop-313131?style=flat-square&labelColor=313131&logo=adobe&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://www.w3schools.com/html/html_intro.asp"><img src="https://img.shields.io/badge/-HTML5-313131?style=flat-square&labelColor=313131&logo=html5&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://firebase.google.com/products/realtime-database/"><img src="https://img.shields.io/badge/-Realtime DB-313131?style=flat-square&labelColor=313131&logo=firebase&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://www.photoshop.com/"><img src="https://img.shields.io/badge/-Adobe Photoshop-313131?style=flat-square&labelColor=313131&logo=adobe&logoColor=white&color=313131"></img></a></th>
   </tr>
 
   <tr>
-    <th><a href=""><img src="https://img.shields.io/badge/-CSS-313131?style=flat-square&labelColor=313131&logo=css3&logoColor=white&color=313131"></img></a></th>
-    <th><a href=""><img src="https://img.shields.io/badge/-MongoDB-313131?style=flat-square&labelColor=313131&logo=mongodb&logoColor=white&color=313131"></img></a></th>
-    <th><a href=""><img src="https://img.shields.io/badge/-Adobe Premiere-313131?style=flat-square&labelColor=313131&logo=adobe&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://www.w3schools.com/css/css_intro.asp"><img src="https://img.shields.io/badge/-CSS3-313131?style=flat-square&labelColor=313131&logo=css3&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-MongoDB-313131?style=flat-square&labelColor=313131&logo=mongodb&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://www.adobe.com/products/premiere.html"><img src="https://img.shields.io/badge/-Adobe Premiere-313131?style=flat-square&labelColor=313131&logo=adobe&logoColor=white&color=313131"></img></a></th>
   </tr>
  
   <tr>
-    <th><a href=""><img src="https://img.shields.io/badge/-Javascript-313131?style=flat-square&labelColor=313131&logo=javascript&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://www.javascript.com"><img src="https://img.shields.io/badge/-Javascript-313131?style=flat-square&labelColor=313131&logo=javascript&logoColor=white&color=313131"></img></a></th>
     <th><strong>Frameworks</strong></th>
-    <th><a href=""><img src="https://img.shields.io/badge/-Blender-313131?style=flat-square&labelColor=313131&logo=blender&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://www.blender.org"><img src="https://img.shields.io/badge/-Blender-313131?style=flat-square&labelColor=313131&logo=blender&logoColor=white&color=313131"></img></a></th>
   </tr>
  
   <tr>
-    <th><a href=""><img src="https://img.shields.io/badge/-Python 3-313131?style=flat-square&labelColor=313131&logo=python&logoColor=white&color=313131"></img></a></th>
-    <th><a href=""><img src="https://img.shields.io/badge/-React-313131?style=flat-square&labelColor=313131&logo=react&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python 3-313131?style=flat-square&labelColor=313131&logo=python&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-313131?style=flat-square&labelColor=313131&logo=react&logoColor=white&color=313131"></img></a></th>
     <th><strong>Packages<strong></th>
   </tr>
  
   <tr>
-    <th><a href=""><img src="https://img.shields.io/badge/-GraphQL-313131?style=flat-square&labelColor=313131&logo=graphql&logoColor=white&color=313131"></img></a></th>
-    <th><a href=""><img src="https://img.shields.io/badge/-NextJS-313131?style=flat-square&labelColor=313131&logo=next.js&logoColor=white&color=313131"></img></a></th>
-    <th><a href=""><img src="https://img.shields.io/badge/-ExpressJS-313131?style=flat-square&labelColor=313131&logo=express&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://graphql.org"><img src="https://img.shields.io/badge/-GraphQL-313131?style=flat-square&labelColor=313131&logo=graphql&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://nextjs.org"><img src="https://img.shields.io/badge/-NextJS-313131?style=flat-square&labelColor=313131&logo=next.js&logoColor=white&color=313131"></img></a></th>
+    <th><a href="http://expressjs.com"><img src="https://img.shields.io/badge/-ExpressJS-313131?style=flat-square&labelColor=313131&logo=express&logoColor=white&color=313131"></img></a></th>
   </tr>
 </table>
 
