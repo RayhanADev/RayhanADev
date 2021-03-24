@@ -43,22 +43,42 @@ Hiya, the name's Ray! I'm a **Hobbyist** and self-taught **Fullstack Developer**
     <th><img src="https://img.shields.io/badge/-Adobe Premiere-313131?style=flat-square&labelColor=313131&logo=adobe&logoColor=white&color=313131"></img></th>
   </tr>
  
-  </tr>
+  <tr>
     <th><img src="https://img.shields.io/badge/-Javascript-313131?style=flat-square&labelColor=313131&logo=javascript&logoColor=white&color=313131"></img></th>
     <th><strong>Frameworks</strong></th>
     <th><img src="https://img.shields.io/badge/-Blender-313131?style=flat-square&labelColor=313131&logo=blender&logoColor=white&color=313131"></img></th>
   </tr>
  
-  </tr>
+  <tr>
     <th><img src="https://img.shields.io/badge/-Python 3-313131?style=flat-square&labelColor=313131&logo=python&logoColor=white&color=313131"></img></th>
     <th><img src="https://img.shields.io/badge/-React-313131?style=flat-square&labelColor=313131&logo=react&logoColor=white&color=313131"></img></th>
     <th><strong>Packages<strong></th>
   </tr>
  
-  </tr>
+  <tr>
     <th><img src="https://img.shields.io/badge/-GraphQL-313131?style=flat-square&labelColor=313131&logo=graphql&logoColor=white&color=313131"></img></th>
     <th><img src="https://img.shields.io/badge/-NextJS-313131?style=flat-square&labelColor=313131&logo=next.js&logoColor=white&color=313131"></img></th>
     <th><img src="https://img.shields.io/badge/-Express-313131?style=flat-square&labelColor=313131&logo=express&logoColor=white&color=313131"></img></th>
+  </tr>
+</table>
+
+---
+
+<h3>Current Projects:</h3>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Description</th>
+  </tr>
+  
+  <tr>
+    <th><strong><a href="https://replit.com/@RayhanADev/DeltaScheme">DeltaScheme</a></strong></th> 
+    <th>A pyramid scheme created for the Internet! My first major fullstack project for production.</th> 
+  </tr>
+  
+  <tr>
+    <th><strong><a href="https://replit.com/@RayhanADev/MyViewCounts">MyViewCounts</a></strong></th> 
+    <th>A stylish way to make view counters that can be embedded into Markdown.</th> 
   </tr>
 </table>
 
