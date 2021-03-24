@@ -73,12 +73,12 @@ Hiya, the name's Ray! I'm a **Hobbyist** and self-taught **Fullstack Developer**
   
   <tr>
     <th><strong><a href="https://replit.com/@RayhanADev/DeltaScheme">DeltaScheme</a></strong></th> 
-    <th>A pyramid scheme created for the Internet! My first major fullstack project for production.</th> 
+    <th><em>A pyramid scheme created for the Internet! My first major fullstack project for production.</em></th> 
   </tr>
   
   <tr>
     <th><strong><a href="https://replit.com/@RayhanADev/MyViewCounts">MyViewCounts</a></strong></th> 
-    <th>A stylish way to make view counters that can be embedded into Markdown.</th> 
+  <th><em>A stylish way to make view counters that can be embedded into Markdown.</em></th> 
   </tr>
 </table>
 
