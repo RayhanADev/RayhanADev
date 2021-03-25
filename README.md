@@ -52,7 +52,7 @@ Hiya, the name's Ray! I'm a **Hobbyist** and self-taught **Fullstack Developer**
   <tr>
     <th><a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python 3-313131?style=flat-square&labelColor=313131&logo=python&logoColor=white&color=313131"></img></a></th>
     <th><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-313131?style=flat-square&labelColor=313131&logo=react&logoColor=white&color=313131"></img></a></th>
-    <th><strong>Packages<strong></th>
+    <th><strong>Packages</strong></th>
   </tr>
  
   <tr>
