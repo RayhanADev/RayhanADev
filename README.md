@@ -78,7 +78,22 @@ Hiya, the name's Ray! I'm a **Hobbyist** and self-taught **Fullstack Developer**
   
   <tr>
     <th><strong><a href="https://replit.com/@RayhanADev/MyViewCounts">MyViewCounts</a></strong></th> 
-  <th><em>A stylish way to make view counters that can be embedded into Markdown.</em></th> 
+    <th><em>A stylish way to make view counters that can be embedded into Markdown.</em></th> 
+  </tr>
+</table>
+
+---
+
+<h3>Open Source Contributions:</h3>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Description</th>
+  </tr>
+  
+  <tr>
+    <th><strong><a href="https://github.com/ryo-ma/github-profile-trophy">Github Profile Trophy</a></strong></th> 
+    <th><em>Created the "Oldie" theme for the Profile Trophies.</em></th> 
   </tr>
 </table>
 
