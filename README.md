@@ -1,4 +1,4 @@
-Hiya, the name's Ray! I'm a **Hobbyist** and self-taught **Fullstack Developer**. I like to design websites and implement code. **Scroll down!!!**
+Hiya, the name's Ray! I'm a **Fullstack Web Developer**, **Hobbyist Developer**, and **Designer Who Codes**. I like to develop projects that are unique and quirky. **Scroll down!!!**
 
 ---
 
