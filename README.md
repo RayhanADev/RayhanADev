@@ -108,8 +108,6 @@ Hiya, the name's Ray! I'm a **Fullstack Web Developer**, **Hobbyist Developer**,
 
 <h3>Github Stats:</h3>
 
-![GitWar](https://gitwar.herokuapp.com/badge?username=RayhanADev&style=flat-square&labelColor=313131&logoColor=white&color=313131)
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=rayhanadev&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rayhanadev&theme=oldie&rank=SECRET,SSS,SS,SS,AAA,AA,A,B&column=4&margin-w=10&margin-h=5)
