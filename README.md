@@ -79,7 +79,7 @@ Hiya, the name's Ray! I'm a **Fullstack Web Developer**, **Hobbyist Developer**,
   </tr>
 
   <tr>
-    <th><strong><a href="https://replit.com/@RayhanADev/About">Personal Portfoli</a></strong></th> 
+    <th><strong><a href="https://replit.com/@RayhanADev/About">Personal Portfolio</a></strong></th> 
     <th><em>Revamping my personal portfolio site to use modern web technologies and my new skills.</em></th> 
   </tr>
 
