@@ -77,15 +77,15 @@ Hiya, the name's Ray! I'm a **Fullstack Web Developer**, **Hobbyist Developer**,
     <th>Title</th>
     <th>Description</th>
   </tr>
-  
+
+  <tr>
+    <th><strong><a href="https://replit.com/@RayhanADev/About">Personal Portfoli</a></strong></th> 
+    <th><em>Revamping my personal portfolio site to use modern web technologies and my new skills.</em></th> 
+  </tr>
+
   <tr>
     <th><strong><a href="https://replit.com/@RayhanADev/DeltaScheme">DeltaScheme</a></strong></th> 
     <th><em>A pyramid scheme created for the Internet! My first major fullstack project for production.</em></th> 
-  </tr>
-  
-  <tr>
-    <th><strong><a href="https://replit.com/@RayhanADev/MyViewCounts">MyViewCounts</a></strong></th> 
-    <th><em>A stylish way to make view counters that can be embedded into Markdown.</em></th> 
   </tr>
 </table>
 
