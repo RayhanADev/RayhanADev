@@ -110,6 +110,6 @@ Hiya, the name's Ray! I'm a **Fullstack Web Developer**, **Hobbyist Developer**,
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=rayhanadev&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rayhanadev&theme=oldie&rank=SECRET,SSS,SS,SS,AAA,AA,A,B&column=4&margin-w=10&margin-h=5)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rayhanadev&theme=oldie&column=4&margin-w=10&margin-h=5)
 
 ---
