@@ -100,7 +100,7 @@ Hiya, the name's Ray! I'm a **Fullstack Web Developer**, **Hobbyist Developer**,
   
   <tr>
     <th><strong><a href="https://github.com/ryo-ma/github-profile-trophy">Github Profile Trophy</a></strong></th> 
-    <th><em>Created the "Oldie" theme for the Profile Trophies.</em></th> 
+    <th><em>Created the "Oldie" theme and commited various fixes.</em></th> 
   </tr>
 </table>
 
