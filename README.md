@@ -1,3 +1,6 @@
+*Featured on [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme) README*  
+*Featured on [coderjojo/create-profile-readme](https://coderjojo.github.io/creative-profile-readme/).*
+
 Hiya, the name's Ray! I'm a **Fullstack Web Developer**, **Hobbyist Developer**, and **Designer Who Codes**. I like to develop projects that are unique and quirky. **Scroll down!!!**
 
 ---
@@ -110,7 +113,5 @@ Hiya, the name's Ray! I'm a **Fullstack Web Developer**, **Hobbyist Developer**,
 ![Stats](https://github-readme-stats.vercel.app/api?username=rayhanadev&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rayhanadev&theme=oldie&column=4&margin-w=10&margin-h=5)
-
-*README Featured on [coderjojo/create-profile-readme](https://coderjojo.github.io/creative-profile-readme/).*  
 
 ---
