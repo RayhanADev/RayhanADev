@@ -99,7 +99,11 @@ Hiya, the name's Ray! I'm a **Fullstack Web Developer**, **Hobbyist Developer**,
     <th>Title</th>
     <th>Description</th>
   </tr>
-  
+
+  <tr>
+    <th><strong><a href="https://github.com/thinkfiveable/open">Fiveable Open Source Initiative</a></strong></th> 
+    <th><em>Developed two methods of using the Github API that makes dynamically retriving data easier.</em></th> 
+  </tr>
   <tr>
     <th><strong><a href="https://github.com/ryo-ma/github-profile-trophy">Github Profile Trophy</a></strong></th> 
     <th><em>Created the "Oldie" theme and commited various fixes.</em></th> 
