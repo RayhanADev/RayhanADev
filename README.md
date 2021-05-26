@@ -118,4 +118,6 @@ Hiya, the name's Ray! I'm a **Fullstack Web Developer**, **Hobbyist Developer**,
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rayhanadev&theme=oldie&column=5&margin-w=60&margin-h=20)
 
+![Cycles to Crash Replit](https://cycles-till-crash.rayhanadev.repl.co/RayhanADev)
+
 ---
