@@ -120,4 +120,6 @@ Hiya, the name's Ray! I'm a **Fullstack Web Developer**, **Hobbyist Developer**,
 
 ![Cycles to Crash Replit](https://cycles-till-crash.rayhanadev.repl.co/RayhanADev)
 
+[Has Forked a Potato](https://github.com/RayhanADev/Potato)
+
 ---
