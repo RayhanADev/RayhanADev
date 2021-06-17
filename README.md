@@ -113,13 +113,9 @@ Hiya, the name's Ray! I'm a **Fullstack Web Developer**, **Hobbyist Developer**,
 ---
 
 <h3>Github Stats:</h3>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=rayhanadev&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=rayhanadev&theme=oldie&column=5&margin-w=60&margin-h=20)
-
-![Cycles to Crash Replit](https://cycles-till-crash.rayhanadev.repl.co/RayhanADev)
-
-[Has Forked a Potato](https://github.com/RayhanADev/Potato)
-
----
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhanadev&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanadev&langs_count=7&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=212121">
+  <img src="https://github-profile-trophy.vercel.app/?username=rayhanadev&theme=oldie&column=3&margin-w=20&margin-h=20">
+</div>
