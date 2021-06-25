@@ -29,7 +29,7 @@ Hiya, the name's Ray! I'm a **Fullstack Web Developer**, **Hobbyist Developer**,
     <th>Software</th>
   </tr>
   <tr>
-    <th><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-NodeJS-313131?style=flat-square&labelColor=313131&logo=node.js&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://nodejs.dev/"><img src="https://img.shields.io/badge/-NodeJS-313131?style=flat-square&labelColor=313131&logo=node.js&logoColor=white&color=313131"></img></a></th>
     <th><a href="https://firebase.google.com/products/firestore/"><img src="https://img.shields.io/badge/-Cloud Firestore-313131?style=flat-square&labelColor=313131&logo=firebase&logoColor=white&color=313131"></img></a></th>
     <th><a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-Visual Studio Code-313131?style=flat-square&labelColor=313131&logo=visual-studio-code&logoColor=white&color=313131"></img></a></th>
   </tr>
